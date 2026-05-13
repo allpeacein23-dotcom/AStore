@@ -1,0 +1,6 @@
+{
+  "name": "AStore",
+  "description": "My Personal App Store",
+  "base": "/AStore/",
+  "folder": "apps"
+}
